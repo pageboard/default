@@ -1,5 +1,5 @@
 {
-  "name": "Default pageboard site",
+  "name": "@pageboard/default",
   "version": "0.6.0",
   "main": "index.js",
   "scripts": {
