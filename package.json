@@ -1,6 +1,6 @@
 {
   "name": "@pageboard/default",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,13 +16,12 @@
   },
   "homepage": "https://github.com/pageboard/default#readme",
   "dependencies": {
-    "@pageboard/elements": "0.6.x",
-    "@pageboard/elements-calendar": "0.6.x",
-    "@pageboard/elements-gallery": "0.6.x",
-    "@pageboard/elements-mail": "0.6.x",
-    "@pageboard/elements-google": "0.6.x",
-    "@pageboard/elements-semantic-ui": "0.6.x",
-    "@pageboard/elements-write": "0.6.x"
+    "@pageboard/site": "^0.7.20",
+    "@pageboard/gallery": "^0.7.1",
+    "@pageboard/email": "0.7.x",
+    "@pageboard/google": "^0.7.1",
+    "@pageboard/html": "^0.7.25",
+    "@pageboard/write": "^0.7.24"
   },
   "pageboard": {
     "directories": [
