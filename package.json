@@ -1,6 +1,6 @@
 {
   "name": "@pageboard/default",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,12 +16,13 @@
   },
   "homepage": "https://github.com/pageboard/default#readme",
   "dependencies": {
-    "@pageboard/site": "^0.7.20",
-    "@pageboard/gallery": "^0.7.1",
-    "@pageboard/email": "0.7.x",
-    "@pageboard/google": "^0.7.1",
-    "@pageboard/html": "^0.7.25",
-    "@pageboard/write": "^0.7.24"
+    "@pageboard/gallery": "^0.8.9",
+    "@pageboard/email": "^0.8.10",
+    "@pageboard/google": "^0.8.11",
+    "@pageboard/html": "^0.8.30",
+    "@pageboard/print": "^0.8.5",
+    "@pageboard/site": "^0.8.30",
+    "@pageboard/write": "^0.8.9"
   },
   "pageboard": {
     "directories": [
